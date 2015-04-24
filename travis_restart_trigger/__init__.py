@@ -1,0 +1,1 @@
+from travis_restart_trigger.travis_restart_trigger import run
